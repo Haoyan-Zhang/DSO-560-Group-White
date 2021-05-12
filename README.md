@@ -3,7 +3,7 @@
 **Please run the notebooks in the following order.**
 
 ## 1. Clean Data.ipynb
-In this notebook, we cleaned the additional tags data and ...
+In this notebook, we cleaned the additional tags data and attributes for future features extraction.
 
 This notebook outputs the 'cleaned_tags_for_future_use.csv' file that will be used in later notebooks.
 
